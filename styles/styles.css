@@ -1,0 +1,101 @@
+body {
+  background-image: url("https://s3.amazonaws.com/shecodesio-production/uploads/files/000/177/694/original/pexels-arthuverny-426983.jpg?1769441503");
+  background-repeat: no-repeat;
+  background-blend-mode: darken;
+  background-size: cover;
+  background-color: #cd8966;
+  font-family: "Montserrat", sans-serif;
+}
+.container {
+  max-width: 600px;
+  margin: 60px auto;
+  background: rgba(255, 255, 255, 0.826);
+  padding: 30px;
+  box-shadow: 0 30px 50px rgba(65, 50, 100, 0.08);
+  border-radius: 10px;
+}
+.search-bar {
+  font-size: 16px;
+  color: rgb(14, 14, 14);
+  border: none;
+  background-color: rgba(255, 250, 240, 0.571);
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0 30px 50px rgba(65, 50, 100, 0.08);
+  width: 80%;
+  opacity: 0.6;
+}
+.search-button {
+  border: none;
+  border-radius: 8px;
+  background-color: #cc2c27;
+  padding: 21px 25px;
+  color: rgb(250, 231, 231);
+  font-size: 16px;
+  margin: 2px;
+  box-shadow: 0 30px 50px rgba(65, 50, 100, 0.08);
+  transition: transform 150ms ease-in-out;
+}
+.search-button:hover {
+  opacity: 0.8;
+  cursor: pointer;
+}
+.main-container {
+  display: flex;
+  justify-content: space-between;
+}
+header {
+  padding-bottom: 30px;
+  border-bottom: 1px solid #f4ccb9a3;
+}
+main {
+  padding-bottom: 25px;
+}
+h1 {
+  font-size: 42px;
+  color: #cc2c27;
+  margin: 30px 0px 2px;
+}
+.current-conditions {
+  opacity: 0.8;
+}
+.temperature-display-container {
+  display: flex;
+  position: relative;
+  right: 20px;
+  top: 20px;
+  font-family: "Lato", sans-serif;
+}
+.current-temperature {
+  font-size: 80px;
+  font-weight: 900;
+  letter-spacing: -1px;
+}
+.current-temperature-symbol {
+  position: relative;
+  top: 10px;
+  font-size: 40px;
+  letter-spacing: 1px;
+}
+.icon {
+  position: relative;
+  top: 4px;
+  left: 2px;
+  margin: 0;
+  height: 80px;
+  width: 80px;
+}
+.strong-text {
+  color: #a71914;
+}
+.author-details {
+  color: rgba(42, 37, 59, 0.89);
+  padding: 30px 0 10px 0;
+  opacity: 0.8;
+  font-size: 14px;
+  text-align: center;
+  border-top: 1px solid #f4ccb9a3;
+}
+.link {
+  color: #cc2c27;
+}
