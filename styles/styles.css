@@ -27,7 +27,7 @@ body {
 .search-button {
   border: none;
   border-radius: 8px;
-  background-color: #0053c7;
+  background-color: rgb(255, 98, 0);
   padding: 21px 25px;
   color: rgb(250, 231, 231);
   font-size: 16px;
