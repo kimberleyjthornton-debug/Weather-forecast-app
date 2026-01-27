@@ -18,7 +18,7 @@ body {
   font-weight: 100;
   color: rgba(42, 40, 40, 0.893);
   border: none;
-  background-color: rgba(172, 202, 247, 0.332);
+  background-color: rgba(255, 255, 255, 0.788);
   border-radius: 8px;
   padding: 20px;
   box-shadow: 0 30px 50px rgba(65, 50, 100, 0.08);
@@ -31,7 +31,7 @@ body {
   padding: 21px 25px;
   color: rgb(250, 231, 231);
   font-size: 16px;
-  margin: 2px;
+  margin: 4px;
   box-shadow: 0 30px 50px rgba(65, 50, 100, 0.08);
   transition: transform 150ms ease-in-out;
 }
