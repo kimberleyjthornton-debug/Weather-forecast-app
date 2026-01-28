@@ -27,7 +27,7 @@ body {
 .search-button {
   border: none;
   border-radius: 8px;
-  background-color: rgb(255, 60, 0);
+  background-color: rgb(255, 34, 0);
   padding: 21px 25px;
   color: rgb(250, 231, 231);
   font-size: 16px;
@@ -94,7 +94,6 @@ h1 {
 }
 .forecasted-day {
   text-align: center;
-  color:;
   font-size: 16px;
   line-height: 10px;
   margin-bottom: 10px;
